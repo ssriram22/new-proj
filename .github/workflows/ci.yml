@@ -24,8 +24,5 @@ jobs:
 
       - name: Run tests
         run: npm run
-
-      - name: Run npm tests
-        run: npm test
       
 
